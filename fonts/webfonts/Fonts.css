@@ -1,5 +1,5 @@
 @font-face {
     font-family: "MonaspaceArgon-Bold";
     src: local("MonaspaceArgon-Bold"),
-         url(MonaspaceArgon-Bold.woff) format("woff");
+         url(fonts/webfonts/MonaspaceArgon-Bold.woff) format("woff");
 }
