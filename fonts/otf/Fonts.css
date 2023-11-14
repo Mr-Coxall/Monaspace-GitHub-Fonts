@@ -1,0 +1,5 @@
+@font-face {
+    font-family: "MonaspaceArgon-Bold";
+    src: local("MonaspaceArgon-Bold"),
+         url(MonaspaceArgon-Bold.otf) format("otf");
+}
