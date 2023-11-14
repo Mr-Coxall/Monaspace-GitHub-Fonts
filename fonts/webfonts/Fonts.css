@@ -1,8 +1,6 @@
 /* MonaspaceRadon-Bold */
 @font-face {
-  font-family: 'MonaspaceRadon Bold';
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url(https://raw.githubusercontent.com/Mr-Coxall/Monaspace-GitHub-Fonts/main/fonts/webfonts/MonaspaceRadon-Bold.woff) format('woff2');
+  font-family: MonaspaceRadon Bold;
+  font-weight: normal;
+  src: url(./MonaspaceRadon-Bold.woff);
 }
